@@ -11,6 +11,7 @@ Pre-requisites
 - Angular 8
 - npm
 - VS Code
+- VS Studio 2019
 
 Implementation
 
