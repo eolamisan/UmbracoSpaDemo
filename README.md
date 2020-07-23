@@ -1,3 +1,4 @@
+
 # UmbracoSpaDemo
 
 Repository Contents:
@@ -20,3 +21,8 @@ Implementation
 
 
 Screenshots
+![initial state](https://github.com/eolamisan/UmbracoSpaDemo/blob/master/screenshots/complete%20umbraco%20setup.png)
+![Image after initial setup](https://github.com/eolamisan/UmbracoSpaDemo/blob/master/screenshots/umbraco-setup-complete.png)
+![Image after initial setup](https://github.com/eolamisan/UmbracoSpaDemo/blob/master/screenshots/add-section-permissions.png)
+![Image after initial setup](https://github.com/eolamisan/UmbracoSpaDemo/blob/master/screenshots/removed%20sections.png)
+![Image after initial setup](https://github.com/eolamisan/UmbracoSpaDemo/blob/master/screenshots/end-result.png)
