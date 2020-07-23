@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build",
+    "build": "ng build --deployUrl=/app_plugins/demo-spa-app/ --baseHref=/app_plugins/demo-spa-app && xcopy \"./dist/demo-spa-app\" \"../WebApp/App_Plugins/demo-spa-app\" /s /e /y",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"

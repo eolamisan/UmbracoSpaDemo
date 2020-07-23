@@ -1,0 +1,16 @@
+{
+    "sections": [
+        {
+            "alias": "demo-spa-app",
+            "name": "demo-spa-app"
+        }
+    ],
+    "dashboards": [
+        {
+        "alias": "overview",
+        "view": "~/App_Plugins/demo-spa-app/index.html",
+        "sections": [ "demo-spa-app" ],
+        "weight": -10
+        }
+    ]
+}

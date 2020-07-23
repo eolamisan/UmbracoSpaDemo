@@ -21,7 +21,9 @@
             "aot": false,
             "assets": [
               "projects/demo-spa-app/src/favicon.ico",
-              "projects/demo-spa-app/src/assets"
+              "projects/demo-spa-app/src/assets",
+              "projects/demo-spa-app/src/package.manifest",
+              "projects/demo-spa-app/src/lang"
             ],
             "styles": [
               "projects/demo-spa-app/src/styles.css"
@@ -81,7 +83,9 @@
             "karmaConfig": "projects/demo-spa-app/karma.conf.js",
             "assets": [
               "projects/demo-spa-app/src/favicon.ico",
-              "projects/demo-spa-app/src/assets"
+              "projects/demo-spa-app/src/assets",
+              "projects/demo-spa-app/src/package.manifest",
+              "projects/demo-spa-app/src/lang"
             ],
             "styles": [
               "projects/demo-spa-app/src/styles.css"
